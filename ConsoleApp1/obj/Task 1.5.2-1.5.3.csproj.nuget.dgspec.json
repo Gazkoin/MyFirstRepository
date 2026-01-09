@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\учеба\\С#\\project\\ConsoleApp1\\Task 1.5.2-1.5.3.csproj": {}
+    "D:\\Git\\2\\ConsoleApp1\\Task 1.5.2-1.5.3.csproj": {}
   },
   "projects": {
-    "E:\\учеба\\С#\\project\\ConsoleApp1\\Task 1.5.2-1.5.3.csproj": {
+    "D:\\Git\\2\\ConsoleApp1\\Task 1.5.2-1.5.3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\учеба\\С#\\project\\ConsoleApp1\\Task 1.5.2-1.5.3.csproj",
+        "projectUniqueName": "D:\\Git\\2\\ConsoleApp1\\Task 1.5.2-1.5.3.csproj",
         "projectName": "Task 1.5.2-1.5.3",
-        "projectPath": "E:\\учеба\\С#\\project\\ConsoleApp1\\Task 1.5.2-1.5.3.csproj",
+        "projectPath": "D:\\Git\\2\\ConsoleApp1\\Task 1.5.2-1.5.3.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\учеба\\С#\\project\\ConsoleApp1\\obj\\",
+        "outputPath": "D:\\Git\\2\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\C#\\sdk\\NuGetPackages"
