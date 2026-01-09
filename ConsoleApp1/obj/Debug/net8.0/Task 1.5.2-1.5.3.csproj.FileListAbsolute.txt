@@ -1,0 +1,14 @@
+E:\учеба\С#\project\ConsoleApp1\bin\Debug\net8.0\Task 1.5.2-1.5.3.exe
+E:\учеба\С#\project\ConsoleApp1\bin\Debug\net8.0\Task 1.5.2-1.5.3.deps.json
+E:\учеба\С#\project\ConsoleApp1\bin\Debug\net8.0\Task 1.5.2-1.5.3.runtimeconfig.json
+E:\учеба\С#\project\ConsoleApp1\bin\Debug\net8.0\Task 1.5.2-1.5.3.dll
+E:\учеба\С#\project\ConsoleApp1\bin\Debug\net8.0\Task 1.5.2-1.5.3.pdb
+E:\учеба\С#\project\ConsoleApp1\obj\Debug\net8.0\Task 1.5.2-1.5.3.GeneratedMSBuildEditorConfig.editorconfig
+E:\учеба\С#\project\ConsoleApp1\obj\Debug\net8.0\Task 1.5.2-1.5.3.AssemblyInfoInputs.cache
+E:\учеба\С#\project\ConsoleApp1\obj\Debug\net8.0\Task 1.5.2-1.5.3.AssemblyInfo.cs
+E:\учеба\С#\project\ConsoleApp1\obj\Debug\net8.0\Task 1.5.2-1.5.3.csproj.CoreCompileInputs.cache
+E:\учеба\С#\project\ConsoleApp1\obj\Debug\net8.0\Task 1.5.2-1.5.3.dll
+E:\учеба\С#\project\ConsoleApp1\obj\Debug\net8.0\refint\Task 1.5.2-1.5.3.dll
+E:\учеба\С#\project\ConsoleApp1\obj\Debug\net8.0\Task 1.5.2-1.5.3.pdb
+E:\учеба\С#\project\ConsoleApp1\obj\Debug\net8.0\Task 1.5.2-1.5.3.genruntimeconfig.cache
+E:\учеба\С#\project\ConsoleApp1\obj\Debug\net8.0\ref\Task 1.5.2-1.5.3.dll
